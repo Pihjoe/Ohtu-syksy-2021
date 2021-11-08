@@ -1,1 +1,9 @@
-Tänne lisäillään, mitä muiden ei tarvitse nähdä.
+#################
+## Ohtu-viikko1
+#################
+
+*.tmp
+
+__pycache__
+.pytest_cache
+
